@@ -1,0 +1,24 @@
+.x
+{
+    width:-10px;
+}
+.x1
+{
+    text-decoration:none;
+    background-color: black;
+    padding:10px 20px;
+    border-radius:8px;
+    margin-top:30px;
+    color:white;
+    top:10px;
+}
+.x1:focus-visible
+{
+    display:inline-block;
+    border:2px solid   ;
+    top:100px;
+}
+body
+{
+    background-color: black;
+}
